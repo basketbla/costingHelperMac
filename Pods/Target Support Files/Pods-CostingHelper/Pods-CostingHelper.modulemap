@@ -1,0 +1,6 @@
+framework module Pods_CostingHelper {
+  umbrella header "Pods-CostingHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

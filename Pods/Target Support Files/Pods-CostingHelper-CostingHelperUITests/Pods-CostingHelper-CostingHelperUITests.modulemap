@@ -1,0 +1,6 @@
+framework module Pods_CostingHelper_CostingHelperUITests {
+  umbrella header "Pods-CostingHelper-CostingHelperUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
